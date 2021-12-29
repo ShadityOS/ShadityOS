@@ -15,7 +15,11 @@ ShadityOS come preinstalled with many apps including:
 ###  Extras
 ShadityOS itself comes with extras that make the Pi usable in day to day applications.
 Using the ```install_exagear.sh``` will allow you to install Exagear's Desktop. An application that allows you to run x86 linux apps on the Pi!
+```
+WARNING:
+```install_exagear.sh``` is currently broken. Please Do not Run this script
 ShadityOS is based off of Debian 10 Buster and runs the GNOME 3.32 Desktop Environment
+```
 
 ## Installation
 ### Prerequisites
