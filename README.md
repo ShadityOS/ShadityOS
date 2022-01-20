@@ -45,6 +45,7 @@ ShadityOS is based off of Debian 10 Buster and runs the GNOME 3.32 Desktop Envir
 - [ ] Finish working on [v1.1.0](https://github.com/ShadityOS/ShadityOS/projects/1)
 - [ ] Fix annoy [issue #4](https://github.com/ShadityOS/ShadityOS/issues/4)
 - [ ] Make first time boot setup script [issue #7](https://github.com/ShadityOS/ShadityOS/issues/7)
+- [ ] Work on [wiki](https://github.com/ShadityOS/ShadityOS/wiki)
 
 ## Issues and Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. If you have any problems, please send an issue and I will attend to it right away!
