@@ -3,7 +3,7 @@ I'm really glad you're reading this, because we need volunteer developers to hel
 This README also applies to all the other repositories in the organization.
 
 ## Testing
-To test please make sure you are using a Raspberry Pi, on a hardware level as emulators might have their own problem.
+To test please make sure you are using a physical Raspberry Pi, as emulators might have their own problems.
 
 ## Reporting Issues
 When reporting issues make sure you meet the following requirements:
