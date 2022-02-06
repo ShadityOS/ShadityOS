@@ -2,7 +2,7 @@
 
 
 
-A debian-based OS for the Raspberry Pi that adds many customization options!
+A debian-based OS for the Raspberry Pi that is designed to help you use the Pi as a daily driver computer.
 
 ## Features
 
