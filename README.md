@@ -42,7 +42,7 @@ ShadityOS is based off of Debian 10 Buster and runs the GNOME 3.32 Desktop Envir
 5. Once you are ready, insert the boot device into the Pi, and boot it up. You now have ShadityOS up and running on your device!
 
 ## TODO:
-- [ ] Finish working on [v1.1.0](https://github.com/ShadityOS/ShadityOS/projects/1)
+- [x] Finish working on [v1.1.0](https://github.com/ShadityOS/ShadityOS/projects/1) (Done. Working on patchfor v1.0.1 users!)
 - [x] Fix annoy [issue #4](https://github.com/ShadityOS/ShadityOS/issues/4)
 - [ ] Work on [wiki](https://github.com/ShadityOS/ShadityOS/wiki)
 
